@@ -1,0 +1,12 @@
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Procedure_Unit4_Assignment\Procedure_Unit4_Assignment\bin\Debug\Procedure_Unit4_Assignment.exe.config
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Procedure_Unit4_Assignment\Procedure_Unit4_Assignment\bin\Debug\Procedure_Unit4_Assignment.exe
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Procedure_Unit4_Assignment\Procedure_Unit4_Assignment\bin\Debug\Procedure_Unit4_Assignment.pdb
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Procedure_Unit4_Assignment\Procedure_Unit4_Assignment\bin\Debug\Procedure_Unit4_Assignment.xml
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Procedure_Unit4_Assignment\Procedure_Unit4_Assignment\obj\Debug\Procedure_Unit4_Assignment.vbprojAssemblyReference.cache
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Procedure_Unit4_Assignment\Procedure_Unit4_Assignment\obj\Debug\Procedure_Unit4_Assignment.Form1.resources
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Procedure_Unit4_Assignment\Procedure_Unit4_Assignment\obj\Debug\Procedure_Unit4_Assignment.Resources.resources
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Procedure_Unit4_Assignment\Procedure_Unit4_Assignment\obj\Debug\Procedure_Unit4_Assignment.vbproj.GenerateResource.cache
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Procedure_Unit4_Assignment\Procedure_Unit4_Assignment\obj\Debug\Procedure_Unit4_Assignment.vbproj.CoreCompileInputs.cache
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Procedure_Unit4_Assignment\Procedure_Unit4_Assignment\obj\Debug\Procedure_Unit4_Assignment.exe
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Procedure_Unit4_Assignment\Procedure_Unit4_Assignment\obj\Debug\Procedure_Unit4_Assignment.xml
+C:\Users\Ellie\Documents\VB.NET_SMC\VB_Programing\Assignment\Procedure_Unit4_Assignment\Procedure_Unit4_Assignment\obj\Debug\Procedure_Unit4_Assignment.pdb
